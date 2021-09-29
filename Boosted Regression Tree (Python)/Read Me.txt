@@ -1,4 +1,4 @@
-# This Python code builds the Boosted Regression Tree (BRT) models within Sklearn package for predicting non-angular surface elastic invariants (Gamma0, T, R, T0, R0, T1, R1) of 7 face-centered cubic (FCC) metals (Ag, Al, Au, Cu, Ni, Pd and Pt). 
+# This Python code "ML_FCC_FreeSurface.py" builds the Boosted Regression Tree (BRT) models within Sklearn package for predicting non-angular surface elastic invariants (Gamma0, T, R, T0, R0, T1, R1) of 7 face-centered cubic (FCC) metals (Ag, Al, Au, Cu, Ni, Pd and Pt). 
 
 # Gamma0 is the intrinsic surface excess energy density. 
 # T and R are invariants of residual surface stress tensor.
