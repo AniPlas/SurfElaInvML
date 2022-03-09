@@ -12,4 +12,4 @@
 % For more details, please check in the reference paper.                  
                                                                          
 % References                                                                                                                                   
-% X. Chen, R. Dingreville, T. Richeton and S. Berbenni. Invariant surface elastic properties in FCC metals via machine learning methods. Journal of the Mechanics and Physics of Solids, accepted.  
+% X. Chen, R. Dingreville, T. Richeton and S. Berbenni. Invariant surface elastic properties in FCC metals and their correlation to bulk properties revealed by machine learning methods. Journal of the Mechanics and Physics of Solids, accepted.  
